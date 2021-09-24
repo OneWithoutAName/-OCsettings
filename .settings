@@ -1,3 +1,4 @@
-GLOBAL=strict~1~locked~1
+GLOBAL=locked~1
 AUTH=owner~6f83ae3a-d369-4905-8090-d4fad508bc9e,4d87aba0-9e30-44e5-863a-f481776152f0,f01ace88-4eda-4adc-8c9c-897a80ea8576,17bd8392-47f3-4f1b-be69-5ed60b0babfa,25d281a7-1ab6-4ec1-9278-819cade7de57~norun~1~vanilla~0
-RELAY=mode~3~wearer~1
+RELAY=mode~1
+RELAY=wearer~1
