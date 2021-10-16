@@ -1,9 +1,3 @@
-GLOBAL=DeviceName~OpenCollar~WearerName~Jenn~locked~1
-RLVSYS=on~1
-LEASH=strict~1,500~turn~1~leashlength~1
-ANIM=PoselockRank~500~animlock~1~PoseMoveWalk~walk_crawl~PoseMoveRun~run_crawl~TweakPoseAO~1~currentpose~dog,500
+
 AUTH=owner~4d87aba0-9e30-44e5-863a-f481776152f0,6f83ae3a-d369-4905-8090-d4fad508bc9e,f01ace88-4eda-4adc-8c9c-897a80ea8576,17bd8392-47f3-4f1b-be69-5ed60b0babfa,25d281a7-1ab6-4ec1-9278-819cade7de57,af889b27-a713-4316-877b-f2af351b6a15,90d2a52c-ad4a-4836-9\
 f56-b9f14cfd0ab9
-RELAY=mode~2031
-OFFSET=hovers~bracelets,0.100000,cutie,0.140000,display,-0.040000,kneel,0.040000,kneel2,-0.040000,nadu,0.020000,nadu-cute-back,0.020000,rise,-0.140000,thepet,0.080000,tower,0.080000,submit,-0.080000,sleep,0.180000,table,-0.100000,shy,-0.060000,dog,-0.08\
-0000
